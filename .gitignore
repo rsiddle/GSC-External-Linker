@@ -1,0 +1,8 @@
+# Mac finder artifacts
+.DS_Store
+
+# Textmate project files
+/*.tmproj
+
+# vim artifacts
+**.swp
